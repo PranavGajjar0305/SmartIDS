@@ -57,8 +57,8 @@ router.post("/generatereport", (req, res) => {
   var transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-      user: "netflix39039@gmail.com",
-      pass: "NetflixNaHoyNaHoy@3939",
+      user: "emailid",
+      pass: "password",
     },
   });
   let tt = [];
