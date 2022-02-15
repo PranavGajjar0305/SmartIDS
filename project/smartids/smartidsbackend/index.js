@@ -27,7 +27,7 @@ db.once("open", () => {
 });
 
 const uri =
-  "mongodb+srv://admin:admin@cluster0.n7um3.mongodb.net/smartids?retryWrites=true&w=majority";
+  "mongodburl";
 console.log(uri);
 mongoose.connect(uri, {
   // useCreateIndex: true,
