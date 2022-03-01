@@ -14,3 +14,6 @@
 
 ## Screenshots
 ![alt text](https://github.com/PranavGajjar0305/SmartIDS/blob/main/ss/Screenshot%202021-11-27%20at%202.54.26%20PM.png?raw=true)
+![alt text](https://github.com/PranavGajjar0305/SmartIDS/blob/main/ss/Screenshot%202021-11-27%20at%202.54.34%20PM.png?raw=true)
+![alt text](https://github.com/PranavGajjar0305/SmartIDS/blob/main/ss/Screenshot%202021-11-27%20at%202.55.10%20PM.png?raw=true)
+![alt text](https://github.com/PranavGajjar0305/SmartIDS/blob/main/ss/Screenshot%202021-11-27%20at%203.05.28%20PM.png?raw=true)
