@@ -11,3 +11,6 @@
 - Pre defined Datasets for Training ML Model
 - Snort
 - Twilio API
+
+## Screenshots
+![alt text](https://github.com/PranavGajjar0305/SmartIDS/blob/main/ss/Screenshot%202021-11-27%20at%202.54.26%20PM.png?raw=true)
